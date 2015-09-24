@@ -6,10 +6,6 @@ body > .container {
   padding-top: 60px;
 }
 
-.row {
-  padding-bottom: 10px;
-}
-
 .logo {
   color: green;
   font-style: italic;
@@ -23,4 +19,36 @@ body > .container {
   font-size: 20px;
   font-weight: lighter;
   float: center;
+
+}
+
+.row img {
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2)
+}
+
+.row {
+  padding: 10px 0px;
+}
+
+@media (max-width: 981px) {
+
+  .row {
+    padding: 20px 0px;
+    border-top: 1px solid gray;
+  }
+
+  .col-md-4 .img-responsive {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+}
+
+.contactus {
+  border: 0;
+}
+
+.list-inline a {
+  text-decoration: none;
+
 }
