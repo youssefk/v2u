@@ -11,7 +11,7 @@ Website to introduce Veggies2U to the world. Created in Introduction to Programm
 ## Setup
 
 * Open Chrome browser.
-* Enter the following gh-page url for site.
+* Enter the following gh-page url for site: [Click Here to View](http://youssefk.github.io/v2u).
 * Resize screen to enjoy the veggie splendor.
 * Click through navigation bar to read about the company.
 
