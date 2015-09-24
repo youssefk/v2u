@@ -27,3 +27,11 @@ body > .container {
   }
 
 }
+
+.contactus {
+  border: 0;
+}
+
+.list-inline a {
+  text-decoration: none;
+}
